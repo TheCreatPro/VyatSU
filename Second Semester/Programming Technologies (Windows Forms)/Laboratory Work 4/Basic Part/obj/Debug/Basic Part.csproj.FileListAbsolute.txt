@@ -1,0 +1,10 @@
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\bin\Debug\Basic Part.exe.config
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\bin\Debug\Basic Part.exe
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\bin\Debug\Basic Part.pdb
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\obj\Debug\Basic Part.csproj.AssemblyReference.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\obj\Debug\Basic_Part.Form1.resources
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\obj\Debug\Basic_Part.Properties.Resources.resources
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\obj\Debug\Basic Part.csproj.GenerateResource.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\obj\Debug\Basic Part.csproj.CoreCompileInputs.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\obj\Debug\Basic Part.exe
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 4\Basic Part\obj\Debug\Basic Part.pdb
