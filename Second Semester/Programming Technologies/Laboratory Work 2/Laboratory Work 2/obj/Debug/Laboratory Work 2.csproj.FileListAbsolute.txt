@@ -1,0 +1,20 @@
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.exe.config
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.exe
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.pdb
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.AssemblyReference.cache
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory_Work_2.Form1.resources
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory_Work_2.Properties.Resources.resources
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.GenerateResource.cache
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.CoreCompileInputs.cache
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.exe
+C:\Users\TheCreatPro\source\repos\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.pdb
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.AssemblyReference.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory_Work_2.Form1.resources
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory_Work_2.Properties.Resources.resources
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.GenerateResource.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.csproj.CoreCompileInputs.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.exe
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\obj\Debug\Laboratory Work 2.pdb
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.exe.config
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.exe
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Laboratory Work 2\bin\Debug\Laboratory Work 2.pdb
