@@ -1,0 +1,10 @@
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\bin\Debug\Laboratory Work 2.exe.config
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\bin\Debug\Laboratory Work 2.exe
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\bin\Debug\Laboratory Work 2.pdb
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\obj\Debug\Individual Task.csproj.AssemblyReference.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\obj\Debug\Laboratory_Work_2.Form1.resources
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\obj\Debug\Laboratory_Work_2.Properties.Resources.resources
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\obj\Debug\Individual Task.csproj.GenerateResource.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\obj\Debug\Individual Task.csproj.CoreCompileInputs.cache
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\obj\Debug\Laboratory Work 2.exe
+C:\Users\TheCreatPro\OneDrive - vyatsu\Учёба\Programming\C#\Laboratory Work 2\Individual Task\obj\Debug\Laboratory Work 2.pdb
