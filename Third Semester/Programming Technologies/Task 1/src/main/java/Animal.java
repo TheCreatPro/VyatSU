@@ -23,9 +23,9 @@ public class Animal {
     return age;
   }
 
-  public int getCount() {
+  /*public int getCount() {
     return count;
-  }
+  }*/
 
   public void run(int dist) {
     if (dist <= this.maxRunDist) {
